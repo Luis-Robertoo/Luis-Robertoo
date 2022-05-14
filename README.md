@@ -9,12 +9,13 @@
 ---
 
 * ⚡ Sou formado em Eletroeletrônica e Eletrotécnica
-* :books: Me aprofundando em JavaScript e Orientação a Objetos
+* :books: Me aprofundando em .NET Core e Node.JS
 * 🏫 Cursando Análise e Desenvolvimento de Sistemas
 
 ---
 <a href="https://github.com/Luis-Robertoo" target="_blank">
 <div style="display: inline_block"><br>
+  <img align="center" alt="Luis-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img align="center" alt="Luis-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Luis-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Luis-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
