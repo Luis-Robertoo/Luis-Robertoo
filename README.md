@@ -9,7 +9,7 @@
 ---
 
 * ⚡ Sou formado em Eletroeletrônica e Eletrotécnica
-* :books: Me aprofundando em .NET Core e Node.JS
+* :books: Me aprofundando em Python e Spark
 * 🏫 Cursando Análise e Desenvolvimento de Sistemas
 
 ---
