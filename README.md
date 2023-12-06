@@ -8,9 +8,9 @@
 ### Eae, sou o Luis
 ---
 
-* ⚡ Sou formado em Eletroeletrônica e Eletrotécnica
-* :books: Me aprofundando em .NET e Python
-* 🏫 Cursando Análise e Desenvolvimento de Sistemas
+*  Sou formado em Análise e Desenvolvimento de Sistemas, Eletroeletrônica e Eletrotécnica
+* :books: Me aprofundando em Angular, .NET e JavaScript
+ 
 
 ---
 <a href="https://github.com/Luis-Robertoo" target="_blank">
